@@ -9,9 +9,13 @@ env:
   - PYTHONPATH=.
 install:
 - pip install -r requirements.txt
+- pip install coveralls
+- pip install pytest-cov
 script:
 - pep8 .
-- pytest
+- pytest --cov=t
+after_success:
+  coveralls
 deploy:
   provider: heroku
   app: t-service

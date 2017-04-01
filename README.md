@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/vincetse/t-service.svg?branch=master)](https://travis-ci.org/vincetse/t-service)
+[![Code Climate](https://codeclimate.com/github/vincetse/t-service/badges/gpa.svg)](https://codeclimate.com/github/vincetse/t-service)
+[![Coverage Status](https://coveralls.io/repos/github/vincetse/t-service/badge.svg?branch=master)](https://coveralls.io/github/vincetse/t-service?branch=master)
 
 # T-Service
 
