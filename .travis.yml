@@ -23,4 +23,4 @@ deploy:
     secure: OqTNbAtxw8g4egAn43y1GFf+5D+ui1Jwvq11UbOH0g/gtE/GWM+ztFFbZrWC0hfe+NC5eWw26I5ty/j1ATXE2VBD00RUIUVBpRbOEUB1gtD5X+OED/Upvn5ROIU7zTqX+yHKqQqhM28vI6YHJ/109/4F4YVsjZrgYNy4Ztas+YVcJFk3T5cPynq2rohuS1QwhbJxszliKidLNj3Qf5ZJObf0G2o36t7OX3TUX3MAE/j0w/Nie7aMqS9OmqLM6tmD+53TFiMRNU0KYPyjzqsY4dsKA2QOwoNDrJHHr65R2Conz3lt+G79qPHouXKqRb6tuDFhQdNwjl7JSH+bfk3k0AOBzPZiem1xyznkpstVpTuGsPj/XlMoorHtHrue3cO1gtNSQLon4QC9sbRYIj3EL7PMVGTEMyhyKGlWekcQnLqutmg21uyQVVNSSGZhTBo/tRzFZpFLMgWXVhphHe/0wb7HvhukAr7+RdN57aYOziJRvYzsuDAGsjcO54HpzjSobTsCD9SC5AYI6yIiKxwG5CbvF+IbYhC/DFcV41kJcghchjALB6SMsbzToflfh4nlQ/nX4j9dhRvqoa+u1AZvvku5H7vCArEzOPvMKUuuYNNTgDn6BtYeUrRVx2UzOhnB/rltohvCAjgW5rZ7M/oRHljaCvV5FDgEm5PH7oqWYus=
   on:
     branch: master
-    python: 2.7
+    python: 3.6
