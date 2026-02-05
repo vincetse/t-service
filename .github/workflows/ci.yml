@@ -17,7 +17,7 @@ jobs:
           echo "PYTHONPATH=$(PYTHONPATH):." >> $GITHUB_ENV
 
       - run: |
-          coverage run -m pytest
+          coverage lcov -m pytest
 
       - uses: qltysh/qlty-action/coverage@v2
         with:
