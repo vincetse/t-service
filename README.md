@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/vincetse/t-service.svg?branch=main)](https://travis-ci.org/vincetse/t-service)
-[![Code Climate](https://codeclimate.com/github/vincetse/t-service/badges/gpa.svg)](https://codeclimate.com/github/vincetse/t-service)
+[![Build Status](https://github.com/vincetse/t-service/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vincetse/t-service/actions/workflows/ci.yml)
+[![Maintainability](https://qlty.sh/gh/vincetse/projects/t-service/maintainability.svg)](https://qlty.sh/gh/vincetse/projects/t-service)
 [![Coverage Status](https://coveralls.io/repos/github/vincetse/t-service/badge.svg?branch=main)](https://coveralls.io/github/vincetse/t-service?branch=main)
+[![Code Coverage](https://qlty.sh/gh/vincetse/projects/t-service/coverage.svg)](https://qlty.sh/gh/vincetse/projects/t-service)
 
 # T-Service
 
