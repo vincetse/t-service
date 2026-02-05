@@ -12,6 +12,9 @@ jobs:
           python-version: '3.14'
           pip-install: -r requirements.txt
 
+      - name: flake8 Lint
+        uses: py-actions/flake8@v2
+
       - name: Set PYTHONPATH
         run: |
           echo "PYTHONPATH=$(PYTHONPATH):." >> $GITHUB_ENV
