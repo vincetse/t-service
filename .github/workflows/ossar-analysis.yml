@@ -14,6 +14,8 @@ jobs:
     # OSSAR runs on windows-latest.
     # ubuntu-latest and macos-latest support coming soon
     runs-on: windows-latest
+    permissions:
+      security-events: write
 
     steps:
       # Checkout your code repository to scan
